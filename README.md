@@ -1,4 +1,7 @@
 # Activity-deploy-model-brain-tumors
 
-### Activity
-[Jupyter Notebook - Classification brain tumors](https://github.com/jmoraleses/Activity-deploy-model-brain-tumors/blob/main/Deploy_jmorales_brain_tumors.ipynb)
+### Activity: Classification brain tumors
+
+[Deploy in Google Colab](https://github.com/jmoraleses/Activity-deploy-model-brain-tumors/blob/main/Deploy.ipynb)
+
+[Jupyter Notebook](https://github.com/jmoraleses/Activity-deploy-model-brain-tumors/blob/main/brain_tumor_detect.ipynb)
